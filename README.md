@@ -76,28 +76,12 @@ const ansuman = {
 |---|---|---|
 | ML web app using **ResNet50** to diagnose plant diseases from photos — instant results with symptoms & treatment recs. | Real-time video calling app with **live chat**, screen sharing, auth & meeting history. | Property rental platform with listing management, reviews, and MVC architecture. |
 | `React` `Flask` `ResNet50` | `Node.js` `Express` `MongoDB` `React` | `Node.js` `Express` `MongoDB` `EJS` |
-| [🔗 Repo](https://github.com/Ansuman1232) | [🔗 Repo](https://github.com/Ansuman1232) | [🔗 Repo](https://github.com/Ansuman1232) |
+| [🔗 Repo](https://github.com/Ansuman1232) | [🔗 Repo](https://github.com/Ansuman1232) | [🔗 Repo](https://github.com/ansuman1232/WandererDeploy) |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ansuman1232&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansuman1232&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ansuman1232&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
 
 
 
