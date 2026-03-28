@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ansuman%20Mishra&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=8b949e&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ansuman%20Mishra&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%&descAlignY=60&descColor=8b949e&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -25,9 +25,7 @@
 
 ```javascript
 const ansuman = {
- 
   interests:   ["Web Development", "Machine Learning", "Problem Solving"],
-  funFact:     "Top 16% globally on LeetCode out of 36,000+ participants 🏆",
   contact:     "anhsumanmishra1232@gmail.com",
 };
 ```
