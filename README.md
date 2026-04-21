@@ -15,7 +15,7 @@
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-Ansuman1232-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ansuman1232)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ansuman--mishra1232-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ansuman-mishra1232)
-[![Email](https://img.shields.io/badge/Email-anhsumanmishra1232%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:anhsumanmishra1232@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anshumanmishra1232%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:anhsumanmishra1232@gmail.com)
 
 </div>
 
