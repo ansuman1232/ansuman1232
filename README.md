@@ -75,8 +75,8 @@ const ansuman = {
 | AI-Powered Deepfake Video Detection System | 📹 Video Conference App | 🏡 Wanderer |
 |---|---|---|
 | lets a user upload a video and receive an AI-generated REAL/FAKE prediction with a confidence score and face–neck correlation metric. | Real-time video calling app with **live chat**, screen sharing, auth & meeting history. | Property rental platform with listing management, reviews, and MVC architecture. |
-| `React` `Flask` `ResNet50` | `Node.js` `Express` `MongoDB` `React` | `Node.js` `Express` `MongoDB` `EJS` |
-| [🔗 Repo](https://github.com/ansuman1232/plant_disease_detection) | [🔗 Repo](https://github.com/ansuman1232/video_conference_App) | [🔗 Repo](https://github.com/ansuman1232/WandererDeploy) |
+| `Node.js` `Express` `MongoDB` `React` `Python` `BullMQ` `Docker` | `Node.js` `Express` `MongoDB` `React` | `Node.js` `Express` `MongoDB` `EJS` |
+| [🔗 Repo](https://github.com/ansuman1232/Capstone_project) | [🔗 Repo](https://github.com/ansuman1232/video_conference_App) | [🔗 Repo](https://github.com/ansuman1232/WandererDeploy) |
 
 </div>
 
