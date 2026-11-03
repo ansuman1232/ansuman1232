@@ -72,9 +72,9 @@ const ansuman = {
 
 <div align="center">
 
-| 🌿 AI Plant Disease Detection | 📹 Video Conference App | 🏡 Wanderer |
+| AI-Powered Deepfake Video Detection System | 📹 Video Conference App | 🏡 Wanderer |
 |---|---|---|
-| ML web app using **ResNet50** to diagnose plant diseases from photos — instant results with symptoms & treatment recs. | Real-time video calling app with **live chat**, screen sharing, auth & meeting history. | Property rental platform with listing management, reviews, and MVC architecture. |
+| lets a user upload a video and receive an AI-generated REAL/FAKE prediction with a confidence score and face–neck correlation metric. | Real-time video calling app with **live chat**, screen sharing, auth & meeting history. | Property rental platform with listing management, reviews, and MVC architecture. |
 | `React` `Flask` `ResNet50` | `Node.js` `Express` `MongoDB` `React` | `Node.js` `Express` `MongoDB` `EJS` |
 | [🔗 Repo](https://github.com/ansuman1232/plant_disease_detection) | [🔗 Repo](https://github.com/ansuman1232/video_conference_App) | [🔗 Repo](https://github.com/ansuman1232/WandererDeploy) |
 
